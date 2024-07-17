@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="customBottomSheetDialog" parent="Theme.Design.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/customBottomSheetStyle</item>
+    </style>
+
+    <style name="customBottomSheetStyle">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="bottom_sheet_dialog_menu_text_style">
+        <item name="android:padding">8dp</item>
+        <item name="android:drawablePadding">16dp</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="separator_border">
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#33000000</item>
+    </style>
+
+    <style name="image_button_style">
+        <item name="android:background">@drawable/style_image_button</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <style name="form_titles_style">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginTop">18dp</item>
+    </style>
+</resources>

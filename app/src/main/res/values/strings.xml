@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoMVVM</string>
+    <string name="title">Title:</string>
+    <string name="title_can_t_be_empty">Title can\'t be empty</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+</resources>
